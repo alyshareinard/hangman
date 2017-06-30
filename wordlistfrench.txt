@@ -1,0 +1,167 @@
+green eggs and ham, les oeufs verts au jambon
+Horton hears a who, Horton entend un zou!
+physical education, l'éducation physique
+math, les maths
+french, le français
+english, l'anglais
+I don’t like music, Je n'aime pas la musique
+I like french, J'aime le français.
+history, l'histoire
+science, les sciences
+art, l'art
+I study a lot, J'étudie beaucoup
+what time is it, Quelle heure est-il
+it’s one o’clock, Il est une heure
+it’s two o’clock, Il est deux heures
+it’s three o’clock, Il est trois heures
+it’s noon, Il est midi
+it’s midnight, Il est minuit
+it’s half past one (1:30), ll est une heure et demie
+it’s half past five (5:30), il est cinq heures et demie it’s a quarter past two (2:15), il est deux heures et quart
+it’s a quarter past four (4:15), il est quatre heures et quart
+it’s 2:10, il est deux heures dix
+it’s 5:25, il est cinq heures vingt-cinq
+on monday I have math at 1:00, Le lundi, j'ai maths à une heure
+the school, l'école
+the classroom, la salle de classe
+the playground, la cour de récréation
+the sports field, le terrain de sports
+the library, la bibliothèque
+the kitchen, la cuisine
+the dining room, la cantine
+here is the music classroom, Voici la salle de musique
+there is the playground, Voilà la cour de récréation
+how do you get to school?, Comment vas-tu à l'école?
+I go to school by car, Je vais à l'école en voiture
+I go to school by bus, Je vais à l'école en bus
+I walk to school, Je vais à l'école à pied
+I go to school on a bike, Je vais à l'école à vélo
+a store, un magasin
+a post office, une poste
+a river, une rivière
+When I go to school I go past a church and a bank, Quand je vais à l'école je passe devant une église et une banque.
+five minutes later I turn right and finally arrive at school, Cinq minutes plus tard je tourne à droite et enfin j'arrive à l'école.
+I wake up, Je me reveille
+I get up, Je me lève
+I wash, Je me lave
+I brush my teeth, Je me brosse les dents
+I have a shower, Je me douche
+I get dressed, Je m'habille
+I go to bed, Je me couche
+I have breakfast, Je prends le petit déjeuner
+I go to school, Je vais à l'école
+I leave home at 8 o’clock, Je sors à huit heures
+I go home, je retourne chez moi
+I wake up at 7 o’clock, Je me reveille à sept heures
+I shower and have breakfast, Je me douche et je prends le petit-déjeuner
+how are you, Comment allez-vous
+hi, salut
+hello, bonjour
+see you tomorrow, À demain
+see you soon, À bientôt
+see you later, À tout à l’heure
+please, s’il vous plaît
+thanks, merci
+my name is, Je m’appelle
+What’s your name?, Comment tu t'appelles
+where do you live, Où habites-tu?
+I don’t understand, je ne comprends pas
+repeat that please, Répétez s'il vous plaît
+slower please, Plus lentement s'il vous plaît
+How old are you?, Quel âge as-tu?
+I’m six years old, J’ai six ans
+I’m seven years old, J’ai sept ans
+I have blond hair, j’ai les cheveux blonds
+I have blue eyes, j’ai les yeux bleus
+I have green eyes, j’ai les yeux verts
+I have two moms, J’ai deux meres
+This is my grandma and grandpa, Voici ma grand-mère et mon grand-père.
+These are my grandparents, Voici mes grands-parents
+this is my brother, Voici mon frère
+I’m not wearing shoes, Je ne porte pas des chaussures
+I’m hungry, J'ai faim
+your brother is hungry, Ton frère a faim
+I like cakes a lot, J'aime beaucoup les gâteaux
+I like vegetables a little bit, J'aime un peu les légumes
+I prefer cheese sandwiches, Je préfère les sandwichs au fromage
+I’m thirsty, J'ai soif
+I want a drink, Je voudrais une boisson
+an apple is good for your health, Une pomme est bonne pour la santé
+Fries are bad for your health, Les frites sont mauvaises pour la santé
+I like to read, J’aime lire
+I like to dance, J’aime danser
+I like to play soccer, J’aime jouer au football
+I know how to swim, Je sais nager
+I play on the computer, Je joue avec l’ordinateur
+I watch tv, Je regarde la télé
+I ride my bike, Je fais du vélo
+I like singing, J’aime chanter
+I sing a lot, Je chante beaucoup
+I play the violin, Je joue du violon
+I like to go to the swimming pool, J’aime aller à la piscine
+I like to go shopping, J’aime faire les magasins
+I like to go to the park, J’aime aller au parc
+I like to go to the movies, J’aime aller au cinéma
+why?, Pourquoi?
+because it’s funny, Parce que c’est marrant
+I don’t like that, je n’aime pas ça
+how do you feel?, Comment tu te sens
+I’m happy, Je suis content
+I feel sad, Je me sens triste
+I am annoyed, Je suis fâche
+it’s great, C’est super
+it’s fabulous, C’est magnifique
+it’s awful, C’est affreux
+it’s boring, C’est ennuyeux
+what’s the weather like, Quel temps fait-il
+it’s hot, Il fait chaud
+it’s cold, Il fait froid
+it’s sunny, Il y a du soleil
+it’s windy, Il y a du vent
+it’s raining, Il pleut
+it’s snowing, Il neige
+I’m going on vacation, Je vais en vacances
+antarctica is cold, L’Antarctique est froide
+the leaf grows on the branch, La feuille pousse sur la branche
+I want to go to France, Je veux aller en France
+I like to party, J’aime faire la fête
+monday, lundi
+tuesday, mardi
+wednesday, mercredi
+thursday, heidi
+friday, vendredi
+saturday, samedi
+sunday, dimanche
+the week, la semaine
+the weekend, le week-end
+january, janvier
+february, fevrier
+march, mars
+april, avril
+may, mai
+june, juin
+july, juillet
+august, août 
+september, septembre 
+october, octobre
+november, novembre
+december, décembre
+my birthday is in september, Mon anniversaire est en septembre
+what day is it?,Quel jour sommes-nous
+it’s my birthday today, Mon anniversaire c'est aujourd'hui
+happy birthday, Joyeux anniversaire
+twenty-one, vingt et un
+twenty-nine, vingt-neuf
+thirty-two, trente-deux
+fifty-five, cinquante-cinq
+sixty-nine, soixante-neuf
+eleven, onze
+twelve, douze
+thirteen, treize
+fourteen, quatorze
+fifteen, quinze
+sixteen, seize
+seventeen, dix-sept
+eighteen, dix-huit
+nineteen, dix-neuf
+one hundred, cent
