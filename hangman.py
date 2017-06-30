@@ -32,12 +32,12 @@ from random import randint
 def getInfile():
 
     current_dir=os.getcwd()
-    infile_name=current_dir+"/wordlist.txt"
+    infile_name=current_dir+"/wordlistfrench2.txt"
 
     try:
         # First, we check for a file called "wordlist.txt". If it exists in the same directory
         #   as the Hangman program, then we use this file as our word list automatically    
-        with open(infile_name, 'r'): infile_name = 'wordlist.txt'
+        with open(infile_name, 'r'): infile_name = 'wordlistfrench2.txt'
     except IOError:
         if sys.version_info[0] < 3:
             infile_name = raw_input('Please specify a text file containing a list of words for the Hangman game to choose from (include the full file path if the file is in a different directory than the Hangman program): ')
@@ -60,13 +60,14 @@ def getInfile():
 
 # Chooses a word randomly from the list of words taken from the input file
 def chooseWord(infile_name):
-    infile = open(infile_name, 'r')
+    infile = open(infile_name, 'r', encoding="utf-8")
     wordlist = infile.readlines()
     total_words = len(wordlist)
     random_num = randint(0, total_words - 1)
 
     chosen_word = wordlist[random_num].replace('\n', '')
-    chosen_word=chosen_word.replace(" ", '')
+    chosen_word=chosen_word.replace(" ", "  ")
+    print("chosen_word", chosen_word)
     word_len = len(chosen_word)
     return chosen_word, word_len
 
@@ -104,9 +105,13 @@ class Hangman(Frame):
         self.word, self.word_len = chooseWord(self.infile_name)
 
         # Build the grid of empty spaces, one space for each letter of the chosen word
-        self.grid = '__'
-        for i in range(self.word_len - 1):
-            self.grid = self.grid + ' __'
+        self.grid = ''
+        self.exclude_chars=['(', ')', "\'", " ", "`", "?", ":", "-", '.']
+        for letter in self.word:
+            if letter in self.exclude_chars or letter.isdigit()==True:
+                self.grid=self.grid+letter
+            else:
+                self.grid = self.grid + ' __'
 
         self.answer_display.configure(text=self.grid)
 
@@ -230,9 +235,12 @@ class Hangman(Frame):
                 self.message.configure(text=textval)
 
                 self.grid=self.word
+#                print("exclude", self.exclude_chars)
                 for letter in self.word:
-                    if (letter not in self.guessed_letters):
-                        self.grid = self.grid.replace(letter, ' __ ')
+#                    print('letter', letter)
+                    if (letter.lower() not in self.guessed_letters and letter not in self.exclude_chars and letter.isdigit()==False):
+                        self.grid = self.grid.replace(letter, ' __')
+#                        print(self.grid)
                 self.answer_display.configure(text=self.grid)
 
 
